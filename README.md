@@ -9,8 +9,8 @@ Supervised by Prof. Yannis Smaragdakis
 
 ## Team Members
 
-Professor Yannis Smaragdakis
+Professor [Yannis Smaragdakis](https://yanniss.github.io/)
 
-* Post Doctoral: Kostas Saidis, George Fourtounis
-* Ph.D. students: George Balatsouras, Aggelos Biboudis, George Kastrinis, George Kollias
+* Post Doctoral: [Kostas Saidis](http://cgi.di.uoa.gr/~saiko/), [George Fourtounis](http://www.softlab.ntua.gr/~gfour/)
+* Ph.D. students: [George Balatsouras](http://gbalats.github.io/), [Aggelos Biboudis](http://biboudis.github.io/), [George Kastrinis](http://gkastrinis.info/), George Kollias
 * M.Sc. students: Anastasis Antoniadis, Efthymios Hadjimichael
