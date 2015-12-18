@@ -44,7 +44,7 @@ header {
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
@@ -96,11 +96,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h1 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #main_content h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 #main_content h3 {
