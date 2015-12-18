@@ -11,6 +11,6 @@ Supervised by Prof. Yannis Smaragdakis
 
 Professor Yannis Smaragdakis
 
-* Post Doctoral: George Fourtounis
+* Post Doctoral: Kostas Saidis, George Fourtounis
 * Ph.D. students: George Balatsouras, Aggelos Biboudis, George Kastrinis, George Kollias
 * M.Sc. students: Anastasis Antoniadis, Efthymios Hadjimichael
