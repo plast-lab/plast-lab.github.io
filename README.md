@@ -28,4 +28,4 @@ Press F5 on your browser.
 
 Do the same as for structure or just make the changes directly at the
 corresponding files
-([_include](https://github.com/plast-lab/plast-lab.github.io/tree/master/_includes)).
+([_include](https://github.com/plast-lab/plast-lab.github.io/tree/master/_includes)). Github regenerates automatically.
