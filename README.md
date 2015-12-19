@@ -17,7 +17,7 @@ Install dependencies
 > bundle update
 ```
 
-edit structure in ```_layout``` while having the server up and and
+edit structure in ```_layout``` while having the server up and
 running with the following command:
 ```shell
 > bundle exec jekyll serve --watch
