@@ -5,6 +5,11 @@
 Read the [github-pages help page](https://help.github.com/articles/using-jekyll-with-pages/)
 quickly.
 
+Jekyll is required. 
+```shell
+> gem install jekyll
+```
+
 ### How to edit structure?
 
 Just to be sure that your changes are OK on a local copy, clone the project:
