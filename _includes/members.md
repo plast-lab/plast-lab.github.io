@@ -5,4 +5,4 @@ Professor [Yannis Smaragdakis](https://yanniss.github.io/)
 * Ph.D. students: [George Balatsouras](http://gbalats.github.io/),
   [Aggelos Biboudis](http://biboudis.github.io/), [George Kastrinis](http://gkastrinis.info/), George Kollias
 * M.Sc. students: Anastasis Antoniadis, Efthymios Hadjimichael
-* Former M.Sc.: [Kostas Ferles](https://kferles.github.io/)
+* Former M.Sc.: [Kostas Ferles](https://kferles.github.io/), Eirini Psallida
