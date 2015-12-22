@@ -1,3 +1,5 @@
+This is a temporary placeholder page. 
+
 The PLaST research group in the
 [Department of Informatics and Telecommunications](http://www.di.uoa.gr)
 at the [University of Athens](http://www.uoa.gr) focuses on applied programming languages and software
@@ -12,4 +14,4 @@ engineering:
 * Program analysis and testing (pointer analysis, automatic test
   generation, invariant inference, symbolic execution)
 
-Director: Prof. [Yannis Smaragdakis](https://yanniss.github.io/)
+Head: [Yannis Smaragdakis](https://yanniss.github.io/)
