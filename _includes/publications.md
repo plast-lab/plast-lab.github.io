@@ -1,5 +1,5 @@
-* "More Sound Static Handling of Java Reflection" (APLAS'15)
-* "Automating Ad hoc Data Representation Transformations" (OOPSLA'15)
+* ["More Sound Static Handling of Java Reflection"](http://yanniss.github.io/reflection-aplas15.pdf) (APLAS'15)
+* ["Automating Ad hoc Data Representation Transformations"](http://yanniss.github.io/adrt-oopsla15.pdf) (OOPSLA'15)
 * "Pointer Analysis" (Foundations and Trends in PL)
 * "Foo: A Minimal Modern OO Calculus" (FTfJP'15)
 * "jUCM: Universal Class Morphing" (MASPEGHI'15)
