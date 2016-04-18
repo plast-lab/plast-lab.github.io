@@ -15,3 +15,4 @@ engineering:
   generation, invariant inference, symbolic execution)
 
 Head: [Yannis Smaragdakis](https://yanniss.github.io/)
+[@plast_lab](https://twitter.com/plast_lab)
