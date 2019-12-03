@@ -10,6 +10,7 @@
 * ["A Datalog Model of Must-Alias Analysis"](https://yanniss.github.io/must-alias-soap17.pdf) (SOAP'17)
 * ["Stream Fusion, to Completeness"](https://yanniss.github.io/streams-popl17.pdf) (POPL'17)
 * ["Heaps Don’t Lie: Countering Unsoundness with Heap Snapshots"](http://yanniss.github.io/heapdl-oopsla17.pdf) (OOPSLA'17)
+* ["Structure-Sensitive Points-To Analysis for C and C++"](http://yanniss.github.io/cclyzer-sas16.pdf) (SAS'16)
 * ["More Sound Static Handling of Java Reflection"](http://yanniss.github.io/reflection-aplas15.pdf) (APLAS'15)
 * ["Automating Ad hoc Data Representation Transformations"](http://yanniss.github.io/adrt-oopsla15.pdf) (OOPSLA'15)
 * ["Pointer Analysis"](http://yanniss.github.io/points-to-tutorial15.pdf) (Foundations and Trends in PL)
