@@ -1,6 +1,8 @@
 * ["Gigahorse: Thorough, Declarative Decompilation of Smart Contracts"](http://yanniss.github.io/gigahorse-icse19.pdf) (ICSE'19)
 * ["Deep Static Modeling of invokedynamic"](http://yanniss.github.io/invokedynamic-ecoop19-preprint.pdf) (ECOOP'19)
 * ["MadMax: Surviving Out-of-Gas Conditions in Ethereum Smart Contracts"](http://yanniss.github.io/eth-oopsla18.pdf) (OOPSLA'18)
+* ["Defensive Points-To Analysis: Effective Soundness via Laziness"](http://yanniss.github.io/ecoop18-sound-may-preprint.pdf) (ECOOP'18)
+* ["Efficient Reflection String Analysis via Graph Coloring"](http://yanniss.github.io/ecoop18-string-coloring-preprint.pdf) (ECOOP'18)
 * ["Static Analysis of Java Dynamic Proxies"](http://yanniss.github.io/issta18-dynamic-proxies-preprint.pdf) (ISSTA'18)
 * ["Shooting from the Heap: Ultra-Scalable Static Analysis with Heap Snapshots"](http://yanniss.github.io/issta18-featherweight-preprint.pdf) (ISSTA'18)
 * ["Heaps Don’t Lie: Countering Unsoundness with Heap Snapshots"](http://yanniss.github.io/heapdl-oopsla17.pdf) (OOPSLA'17)
