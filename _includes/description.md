@@ -1,6 +1,6 @@
-The PLaST research group in the
+The PLaST research group at the
 [Department of Informatics and Telecommunications](http://www.di.uoa.gr)
-at the [University of Athens](http://www.uoa.gr) focuses on applied programming languages and software
+of the [University of Athens](http://www.uoa.gr) focuses on applied programming languages and software
 engineering:
 
 * Program analysis (static analysis, test generation, invariant inference, symbolic execution)
