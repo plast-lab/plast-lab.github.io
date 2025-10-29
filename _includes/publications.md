@@ -1,6 +1,6 @@
 * ["Identifying Java Calls in Native Code via Binary Scanning"](https://gfour.github.io/files/native-scanner-issta2020.pdf) (ISSTA'20)
-* ["Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities"](https://yanniss.github.io/ethainter-pldi20-draft.pdf) (PLDI'20)
-* ["Static Analysis of Java Enterprise Applications: Frameworks and Caches, the Elephants in the Room"](https://yanniss.github.io/enterprise-pldi20-draft.pdf) (PLDI'20)
+* ["Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities"](https://yanniss.github.io/ethainter-pldi20.pdf) (PLDI'20)
+* ["Static Analysis of Java Enterprise Applications: Frameworks and Caches, the Elephants in the Room"](https://yanniss.github.io/enterprise-pldi20.pdf) (PLDI'20)
 * ["Gigahorse: Thorough, Declarative Decompilation of Smart Contracts"](http://yanniss.github.io/gigahorse-icse19.pdf) (ICSE'19)
 * ["Deep Static Modeling of invokedynamic"](http://yanniss.github.io/invokedynamic-ecoop19-preprint.pdf) (ECOOP'19)
 * ["MadMax: Surviving Out-of-Gas Conditions in Ethereum Smart Contracts"](http://yanniss.github.io/eth-oopsla18.pdf) (OOPSLA'18)
