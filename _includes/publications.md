@@ -1,3 +1,8 @@
+* ["Precise Static Identification of Ethereum Storage Variables"](https://yanniss.github.io/eth-storage-icse26-extended.pdf) (ICSE'26)
+* ["Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning)"](https://yanniss.github.io/choice-oopsla25.pdf) (OOPSLA'25)
+* ["The Incredible Shrinking Context... in a Decompiler Near You"](https://yanniss.github.io/shrnkr-full.pdf) (ISSTA'25)
+* ["Program Analysis for High-Value Smart Contract Vulnerabilities: Techniques and Insights"](https://yanniss.github.io/sbc2023.pdf) (SBC'23)
+* ["Elipmoc: Advanced Decompilation of Ethereum Smart Contracts"](https://yanniss.github.io/elipmoc-oopsla22.pdf) (OOPSLA'22)
 * ["Identifying Java Calls in Native Code via Binary Scanning"](https://gfour.github.io/files/native-scanner-issta2020.pdf) (ISSTA'20)
 * ["Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities"](https://yanniss.github.io/ethainter-pldi20-draft.pdf) (PLDI'20)
 * ["Static Analysis of Java Enterprise Applications: Frameworks and Caches, the Elephants in the Room"](https://yanniss.github.io/enterprise-pldi20-draft.pdf) (PLDI'20)
